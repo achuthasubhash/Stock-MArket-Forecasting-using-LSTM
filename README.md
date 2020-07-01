@@ -1,1 +1,1 @@
-# Stock-MArket-Forecasting-using-LSTM
+# Stock-Market-Forecasting-Using-LSTM
